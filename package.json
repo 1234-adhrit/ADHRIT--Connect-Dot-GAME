@@ -1,0 +1,13 @@
+{
+  "name": "flow-connect",
+  "version": "1.0.0",
+  "description": "Connect-the-dots game with solo and multiplayer.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
