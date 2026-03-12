@@ -16,3 +16,6 @@ Then visit [http://localhost:3000](http://localhost:3000).
 
 ## Solo only
 You can open `index.html` directly, but multiplayer requires the server.
+
+## Play Online
+- https://adhrit-connect-dot-game.onrender.com
